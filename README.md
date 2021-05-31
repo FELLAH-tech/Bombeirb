@@ -279,3 +279,6 @@ position sur la carte en cours, le nombre de clefs dans son inventaire,
 l’état des cartes du niveau (monstres, décor). Une fois que
 l’enregistrement est effectué, il faut permettre de recharger la partie
 enregistrée. Le choix du format d’enregistrement est libre.
+
+#### Liste des developpeurs
+Hicham FELLAH
